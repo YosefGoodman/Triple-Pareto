@@ -1,0 +1,25 @@
+
+
+=(E2/(1-F10)^E1) + 0.333*(A1*X2^2*TANH(B1*X2) + A2*X2^2*EXP(-B2*X2^2) + A3*X2^2/(1 + EXP(-B3*X2)))
+
+  ## License
+
+Proprietary – All Rights Reserved  
+© Yosef Yaakov Bunick 7/25/2025  
+
+##Intellectual Property Notice
+
+This model — including its formulas, structure, and supporting files — is the intellectual property of Yosef Yaakov Bunick.
+No part of this work may be copied, reproduced, distributed, or used in any form without the explicit written permission of the author.
+Unauthorized use, reproduction, or modification of this content is strictly prohibited and may result in legal action.
+This model may not be copied, reused for commercial purposes, or distributed without proper attribution and prior permission.
+
+## License for shared use
+CC BY-SA 4.0 ©
+The *Formula Only* is licensed under the Attribution-ShareAlike 4.0 International. https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+This Creative Commons license applies **only to the formula as shared**, and **not to the full model, its structure, or supporting files**, which remain fully proprietary and protected under copyright.
