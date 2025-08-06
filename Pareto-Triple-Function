@@ -11,6 +11,7 @@ This construction makes it suitable for robust scoring systems, synthetic distri
 and anywhere a percentile-to-impact curve must remain monotonic, stable, and tunable.
 
 F(p) = ((A4 * (1 - p)^(-A5)) * A8 * (tanh(p) + A1 / (1 + exp(-A2 * p))) - A6) / (A7 - A6)
+F(p) = L * (w1 * TANH(a1 * (p - b1)) + w2 * (1 + EXP(-a2 * (p - b2)))^(-1)) + c
 
 | Parameter | Name                     | Description                                                                                                                 |
 | --------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
